@@ -28,3 +28,11 @@
     "linebreak-style": ["warn", "unix"]
   },
   "settings": {
+    "react": {
+      "version": "detect"
+    },
+    "import/resolver": {
+      "typescript": {}
+    }
+  }
+}
